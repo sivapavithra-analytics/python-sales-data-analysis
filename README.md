@@ -21,10 +21,16 @@ Python-sales-data-analysis/
 
 
 ## 📈 Analysis Steps
-- Data Cleaning
-- Handling missing values
 - Exploratory Data Analysis
 - Visualization of insights
 
-## 🚀 Status
-In progress – insights and notebooks will be added
+## 📌 Key Insights
+- Identified sales distribution patterns and revenue concentration
+- Visualized sales trends to understand performance over time
+
+## 💼 Business Value
+This analysis helps businesses:
+- Understand revenue patterns
+- Identify high-performing sales periods
+- Support data-driven decision making
+
